@@ -1,0 +1,29 @@
+plugins {
+    id "org.jetbrains.kotlin.jvm"
+    id "com.github.johnrengelman.shadow"
+}
+
+repositories {
+    maven { url 'https://jitpack.io' }
+}
+
+dependencies {
+    compileOnly "org.jetbrains.kotlin:kotlin-stdlib:$KOTLIN_VERSION"
+    compileOnly "org.jetbrains.kotlin:kotlin-compiler-embeddable:$KOTLIN_VERSION"
+    compileOnly 'com.github.arrow-kt.arrow-meta:compiler-plugin:-SNAPSHOT'
+}
+
+compileKotlin {
+    kotlinOptions {
+        jvmTarget = "$JVM_TARGET_VERSION"
+    }
+}
+
+// Create a new JAR with: Arrow Meta + new plugin
+shadowJar {
+    configurations = [project.configurations.compileOnly]
+    dependencies {
+        exclude("org.jetbrains.kotlin:kotlin-stdlib")
+        exclude("org.jetbrains.kotlin:kotlin-compiler-embeddable")
+    }
+}
