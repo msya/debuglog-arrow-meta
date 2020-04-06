@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5dd34a14-48ab-4db7-aa8b-2814ae365f1d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/create-plugin/src/main/kotlin/com/debuglog/DebugLogTransformation.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/create-plugin/src/main/resources/META-INF/services/org.jetbrains.kotlin.compiler.plugin.ComponentRegistrar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/use-plugin/src/main/kotlin/com/debuglog/DebugLogExample.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/use-plugin/src/test/kotlin/com/debuglog/DebugLogMetaPluginTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-world/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-world/create-plugin/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/create-plugin/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-world/create-plugin/src/main/kotlin/io/arrowkt/example/HelloWorldPlugin.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-world/create-plugin/src/main/kotlin/io/arrowkt/example/MetaPlugin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/create-plugin/src/main/kotlin/com/debuglog/DebugLogMetaPlugin.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-world/create-plugin/src/main/resources/META-INF/services/org.jetbrains.kotlin.compiler.plugin.ComponentRegistrar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-world/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-world/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-world/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-world/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-world/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-world/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-world/use-plugin/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/use-plugin/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-world/use-plugin/src/main/kotlin/io/arrowkt/example/HelloWorld.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-world/use-plugin/src/test/kotlin/io/arrowkt/example/MetaPluginTest.kt" beforeDir="false" />
-    </list>
+    <list default="true" id="5dd34a14-48ab-4db7-aa8b-2814ae365f1d" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +51,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="pjc6alj8" />
@@ -184,22 +165,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1628" height="577" key="GridCell.Tab.0.bottom" timestamp="1586138459178">
+    <state width="1628" height="577" key="GridCell.Tab.0.bottom" timestamp="1586214299617">
       <screen x="0" y="23" width="1680" height="947" />
     </state>
-    <state width="1628" height="577" key="GridCell.Tab.0.bottom/0.23.1680.947@0.23.1680.947" timestamp="1586138459178" />
-    <state width="1628" height="577" key="GridCell.Tab.0.center" timestamp="1586138459178">
+    <state width="1628" height="577" key="GridCell.Tab.0.bottom/0.23.1680.947@0.23.1680.947" timestamp="1586214299617" />
+    <state width="1628" height="577" key="GridCell.Tab.0.center" timestamp="1586214299616">
       <screen x="0" y="23" width="1680" height="947" />
     </state>
-    <state width="1628" height="577" key="GridCell.Tab.0.center/0.23.1680.947@0.23.1680.947" timestamp="1586138459178" />
-    <state width="1628" height="577" key="GridCell.Tab.0.left" timestamp="1586138459177">
+    <state width="1628" height="577" key="GridCell.Tab.0.center/0.23.1680.947@0.23.1680.947" timestamp="1586214299616" />
+    <state width="1628" height="577" key="GridCell.Tab.0.left" timestamp="1586214299615">
       <screen x="0" y="23" width="1680" height="947" />
     </state>
-    <state width="1628" height="577" key="GridCell.Tab.0.left/0.23.1680.947@0.23.1680.947" timestamp="1586138459177" />
-    <state width="1628" height="577" key="GridCell.Tab.0.right" timestamp="1586138459178">
+    <state width="1628" height="577" key="GridCell.Tab.0.left/0.23.1680.947@0.23.1680.947" timestamp="1586214299615" />
+    <state width="1628" height="577" key="GridCell.Tab.0.right" timestamp="1586214299617">
       <screen x="0" y="23" width="1680" height="947" />
     </state>
-    <state width="1628" height="577" key="GridCell.Tab.0.right/0.23.1680.947@0.23.1680.947" timestamp="1586138459178" />
+    <state width="1628" height="577" key="GridCell.Tab.0.right/0.23.1680.947@0.23.1680.947" timestamp="1586214299617" />
     <state x="233" y="48" key="SettingsEditor" timestamp="1586043734147">
       <screen x="0" y="23" width="1680" height="947" />
     </state>
