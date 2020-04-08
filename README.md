@@ -2,7 +2,7 @@
 
 This compiler plugin was inspired by [DebugLog](https://github.com/kevinmost/debuglog). It is an implementation of this plugin
 using [Arrow Meta](https://github.com/arrow-kt/arrow-meta). Arrow Meta is a library that provides functional API to build
-compiler plugins.
+compiler plugins. I wrote an article that explains the plugin [Writing a Kotlin Compiler Plugin with Arrow Meta](https://medium.com/@heyitsmohit/writing-kotlin-compiler-plugin-with-arrow-meta-cf7b3689aa3e).
 
 There are two modules in this project. 
 
